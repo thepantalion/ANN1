@@ -1,0 +1,10 @@
+configs/fontlist-v330.json
+duplicates.npz
+public_data.zip
+public_data.npz
+cleaned_data.npz
+duplicate_images/
+output_images/
+output_images_cleaned/
+cartella_output/
+cleaned_dataset/
