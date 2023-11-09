@@ -5,6 +5,7 @@ public_data.npz
 cleaned_data.npz
 duplicate_images/
 output_images/
+output_images_raw/
 output_images_cleaned/
 cartella_output/
 cleaned_dataset/
