@@ -9,3 +9,4 @@ output_images_raw/
 output_images_cleaned/
 cartella_output/
 cleaned_dataset/
+.DS_Store
