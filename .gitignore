@@ -11,3 +11,4 @@ cartella_output/
 cleaned_dataset/
 .DS_Store
 model.png
+data_augmented.npz
