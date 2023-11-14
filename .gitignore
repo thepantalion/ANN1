@@ -1,8 +1,5 @@
 configs/fontlist-v330.json
 duplicates.npz
-public_data.zip
-public_data.npz
-cleaned_data.npz
 duplicate_images/
 output_images/
 output_images_raw/
@@ -10,5 +7,8 @@ output_images_cleaned/
 cartella_output/
 cleaned_dataset/
 .DS_Store
-model.png
-data_augmented.npz
+metadata
+model.py
+SubmissionModel*
+model*
+*data*
