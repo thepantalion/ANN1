@@ -12,3 +12,6 @@ model.py
 SubmissionModel*
 model*
 *data*
+finger*
+saved_model*
+TransferLearningModel*
